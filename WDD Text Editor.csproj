@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="jQuery.js" />
     <Content Include="startPage.aspx" />
+    <Content Include="style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
