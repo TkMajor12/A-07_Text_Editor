@@ -18,9 +18,15 @@
             </select>
             <input type="button" id="open-file" value="Open File"/>
             <input type="button" id="save-file" value="Save"/>
+            <label for="new-filename">New Filename:</label>
+            <input type="text" id="new-filename"/>
+            <input type="button" id="save-file-as" value="Save As"/>
         </div>
         <div>
-            <textarea id="textEditor" class="textEditorStyle" ></textarea>
+            <br />
+        </div>
+        <div>
+            <textarea id="textEditor" class="textEditorStyle" spellcheck="false" ></textarea>
         </div>
         <div>
             <p id="statusMessage"></p>
