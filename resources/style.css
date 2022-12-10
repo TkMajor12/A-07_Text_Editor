@@ -1,0 +1,11 @@
+﻿.textEditorStyle {
+    height: 80vh;
+    width: 98vw;
+}
+
+html{
+    background-color: rgb(200, 243, 255);
+    font-family: Consolas;
+}
+
+
